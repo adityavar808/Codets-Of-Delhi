@@ -5,16 +5,6 @@ This project explores data-driven insights and recommendations inspired by socia
 
 The work is organized across several Jupyter notebooks, each focusing on a specific stage — from data exploration and cleaning to building intelligent suggestions.
 
-## 📂 Project Structure
-
-Coders-Of-Delhi-Pyhton/
-│
-├── 1. Introduction.ipynb          # Overview and dataset exploration
-├── 2. Data cleaning.ipynb         # Data preprocessing and feature refinement
-├── 3. People you may know.ipynb   # Logic/model for friend recommendations
-├── 4. Pages you might like.ipynb  # Model for page or content recommendations
-└── README.md                      # Project documentation
-
 🛠️ Tech Stack
 
 Language: Python
